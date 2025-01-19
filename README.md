@@ -57,6 +57,10 @@ Użytkownicy mogą rejestrować się, logować oraz dodawać swoje oferty mieszk
 
 ![Formularz rejestracji](images/formularzrejestracji.png)
 
+### Panel użytkownika
+
+![Panel użytkownika](images/userpanel.png)
+
 ### Formularz dodawania ogłoszeń
 
 ![Formularz dodawania ogłoszeń 1](images/formaddlisting1.png)
